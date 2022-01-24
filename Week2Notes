@@ -1,0 +1,6 @@
+*.h header file
+*.cpp implementation file
+main() end-user file
+End-user creates an object out of the class
+Class is declared in the header file
+Class is defined/implemented in the cpp file
