@@ -5,8 +5,7 @@ using namespace std;
 void SumTwoNumbers::calcSum() {
 
 	// define the variables
-	int num1 = 50, num2 = 100;
-	int total;
+	int num1 = 50, num2 = 100, total;
 
 	// calculate the total and assign the variables
 	total = num1 + num2;
