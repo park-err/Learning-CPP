@@ -12,5 +12,5 @@ void SumTwoNumbers::calcSum() {
 	total = num1 + num2;
 
 	// display total
-	cout << total << endl;
+	cout << "Total: " << total << endl;
 };
