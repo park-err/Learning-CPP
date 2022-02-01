@@ -7,7 +7,7 @@ V2:
 ---
 Create a loop with four iterations
 If iteration is even then ask for age
-If iteration is off then ask for name
+If iteration is odd then ask for name
 Ask the user for her/his age eg. 60
 Display personalized message eg. "So you are 60 years old!"
 
