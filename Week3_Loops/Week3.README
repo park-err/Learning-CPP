@@ -1,0 +1,18 @@
+Week3_Interactive???
+Requirements (V1.0) :
+Ask the user for her/his name. eg. Alice
+Display personalized message. eg. Hello Alice!
+
+V2:
+---
+Create a loop with four iterations
+If iteration is even then ask for age
+If iteration is off then ask for name
+Ask the user for her/his age eg. 60
+Display personalized message eg. "So you are 60 years old!"
+
+V3:
+---
+Iteration will ask for name and age at the same time eg. Alice 20
+Display personalized message "Hello Alice! So you are 20 years old!"
+Iterate 5 times
