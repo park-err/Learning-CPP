@@ -1,0 +1,17 @@
+There are three seating categories at a stadium. For a softball game, Class A seats cost $15.00, Class B seats cost $12.00, and Class C seats cost $9.00. Write a program that asks how many tickets for each class of seats were sold, then displays the amount of income generated from ticket sales. Format your dollar amount in a fixed-point notation with two decimal points and make sure the decimal point is always displayed
+
+folder name: Week3_StadiumSeating
+header file: StadiumSeating.h
+source file: StadiumSeating.cpp
+main file: main.cpp
+
+Class name: StadiumSeating
+method name: genRevenue
+
+In one line, ask "How many tickets were sold for Class A, B, and C?"
+Extract data and sort into variables: soldA, soldB, soldC
+Define constants: costA, costB, costC
+Calc and display: totalRev
+
+#include <iomanip>
+use: cout << showpoint << fixed << setprecision(2); for dollar amount
