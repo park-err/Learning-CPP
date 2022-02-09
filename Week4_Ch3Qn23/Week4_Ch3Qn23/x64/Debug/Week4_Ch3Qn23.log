@@ -1,0 +1,3 @@
+﻿  Ch3_QN23.cpp
+C:\Users\whelp\source\repos\Week4_Ch3Qn23\Week4_Ch3Qn23\Ch3_QN23.cpp(21,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Week4_Ch3Qn23.vcxproj -> C:\Users\whelp\source\repos\Week4_Ch3Qn23\x64\Debug\Week4_Ch3Qn23.exe
