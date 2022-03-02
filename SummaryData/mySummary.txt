@@ -1,0 +1,2 @@
+Total value of 100 random numbers = 275804
+Average value of random numbers = 5516.08
